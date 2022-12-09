@@ -1,0 +1,19 @@
+.nav {
+    color: black;
+   
+}
+
+body {
+  background-color: rgb(141, 221, 253);
+  color: aliceblue;
+}
+
+.icon {
+    justify-content: end;
+}
+
+.card {
+    margin-top: 10px;
+    color: black;
+}
+
